@@ -1,3 +1,5 @@
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 # Esperantaj kokardoj / Esperanto circular flag cockades
 Alternate cockade designs for the Esperanto flag / Alternaj kokardoprojektoj por la Esperanta flago
 
