@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="191.02959mm"
+   height="191.02959mm"
+   viewBox="0 0 191.02959 191.02959"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="esperanto-kokardo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0910356"
+     inkscape:cx="344.98429"
+     inkscape:cy="379.90298"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:window-width="1879"
+     inkscape:window-height="1056"
+     inkscape:window-x="1321"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-10.205566,-69.949486)">
+    <circle
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path869"
+       cx="105.72036"
+       cy="165.46428"
+       r="95.514793" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#37444b;stroke-width:0.28704137;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path824"
+       cx="105.72036"
+       cy="165.46428"
+       r="31.60648" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.31573421;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4575"
+       cx="105.72036"
+       cy="165.46428"
+       r="63.6325" />
+    <path
+       sodipodi:type="star"
+       style="fill:#009900;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path894"
+       sodipodi:sides="5"
+       sodipodi:cx="105.72035"
+       sodipodi:cy="165.46426"
+       sodipodi:r1="43.043877"
+       sodipodi:r2="16.356672"
+       sodipodi:arg1="0.78539816"
+       sodipodi:arg2="1.4137167"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 136.15697,195.90088 -27.87787,-14.28132 -22.100259,22.19708 4.967609,-30.9266 -27.940033,-14.15932 30.948021,-4.83237 4.832368,-30.94802 14.159324,27.94003 30.9266,-4.96761 -22.19708,22.10026 z"
+       inkscape:transform-center-x="5.5469711e-06"
+       inkscape:transform-center-y="-3.7475859"
+       transform="matrix(-0.6447033,-0.6447033,0.6447033,-0.6447033,67.203251,340.29788)" />
+  </g>
+</svg>
