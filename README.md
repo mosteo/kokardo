@@ -22,6 +22,10 @@ In the end I think I prefer the "circumscribed" design.
 
 Given the preponderance of green in the regular flag, I can see other designs with a thicker outer circle (perhaps comprising the two outer circles and touching the inscribed star?) But on the other hand I like the idea of three equally spaced circles, as most other circular flags do. (E.g., the flag of Spain central band is [twice as thick](https://en.wikipedia.org/wiki/Flag_of_Spain), but not so in the [circular version](https://en.wikipedia.org/wiki/Cockade_of_Spain)).
 
+Well, here it is:
+
+<img src="esperanto-kokardo-twice.png" width="150"/>
+
 Here are the vectorial source files:
 
 - [esperanto-kokardo-inscribed-star.svg](esperanto-kokardo-inscribed-star.svg)
