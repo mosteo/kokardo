@@ -1,7 +1,12 @@
 [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 # Esperantaj kokardoj / Esperanto circular flag cockades
-Alternate cockade designs for the Esperanto flag / Alternaj kokardoprojektoj por la Esperanta flago
+Cockade designs for the Esperanto flag / Kokardoprojektoj por la Esperanta flago
+
+Inscribed | Circumscribed | Same area | Touching | Thick
+--- | --- | --- | --- | ---
+ | |
+<img src="src/esperanto-kokardo-inscribed-star.png" width="100"/> | <img src="src/esperanto-kokardo-circumscribed-star.png" width="100"/> | <img src="src/esperanto-kokardo-same-area.png" width="100"/> | <img src="src/esperanto-kokardo-touching.png" width="100"/> | <img src="src/esperanto-kokardo-twice.png" width="100"/>
 
 I went on the lookout for a circular Esperanto flag but the ones [that](https://www.pinterest.com/pin/329396160233067907/) [came](https://www.pngegg.com/en/png-scsss) [up](https://www.zazzle.ca/esperanto_quality_flag_circle_2_inch_round_button-145204474472426086) were not very appealing to me, because of the asymmetry. In the vein of other circular flags, were at least all the elements are centered, I decided to design a variant with the star in the middle.
 
@@ -9,16 +14,12 @@ My first idea of having the inscribed star in what would be the inner circle (fo
 
 Given the preponderance of green in the regular flag, I also made a design with a thicker outer circle comprising the two outer circles and touching the inscribed star. But on the other hand I like the idea of three equally spaced circles, as most other circular flags do. (E.g., the flag of Spain central band is [twice as thick](https://en.wikipedia.org/wiki/Flag_of_Spain), but not so in the [circular version](https://en.wikipedia.org/wiki/Cockade_of_Spain)).
 
-I present all of them for your own judgement:
-
-<center>
+I present all of them (again) for your own judgement. You can vote for your preferred ones in [this issue](https://github.com/mosteo/kokardo/issues/1):
 
 Inscribed | Circumscribed | Same area | Touching | Thick
 --- | --- | --- | --- | ---
  | |
 <img src="src/esperanto-kokardo-inscribed-star.png" width="100"/> | <img src="src/esperanto-kokardo-circumscribed-star.png" width="100"/> | <img src="src/esperanto-kokardo-same-area.png" width="100"/> | <img src="src/esperanto-kokardo-touching.png" width="100"/> | <img src="src/esperanto-kokardo-twice.png" width="100"/>
-
-</center>
 
 In the end I think I prefer the "circumscribed" design.
 
