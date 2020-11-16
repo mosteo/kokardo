@@ -16,7 +16,7 @@ I present all of them for your own judgement:
 Inscribed | Circumscribed | Same area | Touching | Thick
 --- | --- | --- | --- | ---
  | |
-<img src="esperanto-kokardo-inscribed-star.png" width="100"/> | <img src="esperanto-kokardo-circumscribed-star.png" width="100"/> | <img src="esperanto-kokardo-same-area.png" width="100"/> | <img src="esperanto-kokardo-touching.png" width="100"/> | <img src="esperanto-kokardo-twice.png" width="100"/>
+<img src="src/esperanto-kokardo-inscribed-star.png" width="100"/> | <img src="src/esperanto-kokardo-circumscribed-star.png" width="100"/> | <img src="src/esperanto-kokardo-same-area.png" width="100"/> | <img src="src/esperanto-kokardo-touching.png" width="100"/> | <img src="src/esperanto-kokardo-twice.png" width="100"/>
 
 </center>
 
